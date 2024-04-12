@@ -1,0 +1,25 @@
+header {
+    background-color: aliceblue;
+    width: 100vh;
+    height: auto;
+    margin-left: 20%;
+    text-align: center;
+}
+h1{
+    font-display: center;
+}
+img {
+    width: 100vh;
+    height: auto;
+    margin-left: 20%;
+}
+footer {
+    background-color: black;
+    width: 100vh;
+    height: 15vh;
+    margin-left: 20%;
+}
+h4{
+    color: white;
+    text-align:center;
+}
